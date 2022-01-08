@@ -1,2 +1,2 @@
 # Basic_Calculator
-simple calculator 
+calculator to perform basic operation
